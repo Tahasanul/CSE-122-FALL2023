@@ -1,2 +1,7 @@
-# CSE-122-FALL2023
-This is an OPP Lab Repositoty
+Name:Ehasanul Haque
+
+ID:22235103075
+
+INTAKE:51
+
+SECTION:02
